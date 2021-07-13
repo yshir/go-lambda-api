@@ -1,1 +1,1 @@
-# go-lambda-api
+# go_lambda_api
